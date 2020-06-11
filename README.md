@@ -1,0 +1,2 @@
+# coding
+Projects and learning
